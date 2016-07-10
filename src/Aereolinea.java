@@ -1,0 +1,4 @@
+
+public enum Aereolinea {
+ TAME, AMERICANAIRLINES, AEROGAL,LAN,TACA,DELTA,AVIANCA
+}
